@@ -1,0 +1,32 @@
+---
+title: "Werle Bio"
+image: images/headers/WiscWeeds_NewLogo.JPG
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/WiscWeeds
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCH-XrJxxyGoP2E-DGGpdF-w 
+    - icon: google scholar square
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=Bmu_aPYAAAAJ&view_op=list_works&sortby=pubdate
+    - icon: github
+      text: GitHub
+      href: https://github.com/WiscWeeds
+    - icon: envelope
+      text: Email
+      href: mailto:rwerle@wisc.edu
+    #- icon: linkedin
+    #  text: LinkedIn
+    #  href: https://linkedin.com
+    #- icon: github
+    #  text: Github
+    #  href: https://github.com
+---
+
+This page is under development. Stay tuned!
+
+[![WiscWeeds team at the 2022 North Central Weed Science Society Meetings, St. Louis, MO, December 07, 2022.](images/headers/WiscWeeds%20NCWSS%202022.JPG)](https://ecals.cals.wisc.edu/2022/12/19/wiscweeds-graduate-students-win-8-awards-at-ncwss-annual-meeting/)
