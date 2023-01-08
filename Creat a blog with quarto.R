@@ -11,4 +11,11 @@ usethis::use_git_config(
 usethis::create_github_token()
 
 gitcreds::gitcreds_set()
+
+usethis::git_sitrep()
+
+usethis::use_git()
 2
+
+usethis::use_github()
+3
