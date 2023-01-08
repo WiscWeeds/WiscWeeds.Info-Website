@@ -1,48 +1,30 @@
 ---
-project:
-  type: website
-
-website:
-  title: "WiscWeeds.info"
-  reader-mode: true
-  google-analytics: "G-VTH6CK2TEW"
-  
-  navbar:
-    pinned: true
-    background: darkred
-    #logo: 
-    
-    left:
-      - text: "Blog Posts"
-        file: index.qmd
-      - text: "About Us"
-        file: about.qmd
-      - text: "Research Reports"
-        file: reports.qmd
-      - text: "WiscWeeds Team"
-        file: team.qmd
-      - text: "Werle Bio"
-        file: werle.qmd
-      
-    right: 
-      - icon: twitter
-        text: "Twitter"
-        href: https://twitter.com/WiscWeeds
-     # - icon: google scholar
-      #  href: https://scholar.google.com/citations?hl=en&user=Bmu_aPYAAAAJ&view_op=list_works&sortby=pubdate
-      #- icon: github
-      #  href: https://github.com/WiscWeeds
-      #- icon: envelope
-      #  href: mailto:rwerle@wisc.edu
-        
-  page-footer: Copyright 2023 WiscWeeds (Dr. Rodrigo Werle). Powered by [Quarto](https://quarto.org/), [RStudio](https://posit.co/), & [GitHub](https://github.com/). 
-   
-format:
-  html:
-    theme: default
-    css: styles.css
-
-editor: visual
+title: "About Us"
+image: images/headers/WiscWeeds_NewLogo.JPG
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/WiscWeeds
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCH-XrJxxyGoP2E-DGGpdF-w 
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=Bmu_aPYAAAAJ&view_op=list_works&sortby=pubdate
+    - icon: github
+      text: GitHub
+      href: https://github.com/WiscWeeds
+    - icon: envelope
+      text: Email
+      href: mailto:rwerle@wisc.edu
+    #- icon: linkedin
+    #  text: LinkedIn
+    #  href: https://linkedin.com
+    #- icon: github
+    #  text: Github
+    #  href: https://github.com
 ---
 
 Our Research and Extension Cropping Systems Weed Science Program (WiscWeeds) at the University of Wisconsin-Madison focuses on traditional and agroecologically-based approaches to weed management in corn, soybean, and small grains in Wisconsin farm systems. Our program generates and disseminates research-based information for sustainable weed management (including herbicide-resistant weeds), protecting water quality, increasing food security, and enhancing other agroecosystem services (e.g., farm profitability). Check the [**WiscWeeds Team Program Statement**.](images/headers/UW_WiscWeedsStatement.pdf)
