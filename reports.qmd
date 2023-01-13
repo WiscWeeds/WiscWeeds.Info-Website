@@ -31,6 +31,48 @@ about:
 
 -   [**2022 Wisconsin Weed Science Research Report (PDF)**](/images/2022%20Research%20Report/2022%20Wisconsin%20Weed%20science%20Research%20Report.pdf)
 
+**2021 Corn Weed Control Trials (field images):**
+
+-   [**Acuron GT Performance Demo (PDF)**](\images\2022 Research Report\Acuron GT Performance Demo.pdf)
+
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs with Atrazine (PDF)**](\images\2022 Research Report\Corn Herbicide Showcase 1 and 2-Pass Programs with Atrazine.pdf)
+
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs without Atrazine (PDF)**](\images\2022 Research Report\Corn Herbicide Showcase 1 and 2-Pass Programs without Atrazine.pdf)
+
+-   [**Evaluation of Corn PRE-Emergence Herbicides - Janesville (PDF)**](\images\2022 Research Report\Evaluation of Corn PRE-Emergence Herbicides - Janesville.pdf)
+
+-   [**Evaluation of Corn PRE-Emergence Herbicides - Lancaster (PDF)**](\images\2022 Research Report\Evaluation of Corn PRE-Emergence Herbicides - Lancaster.pdf)
+
+-   [**Herbicide Programs for Conventional Corn - Arlington (PDF)**](\images\2022 Research Report\Herbicide Programs for Conventional Corn - Arlington.pdf)
+
+-   [**Herbicide Programs for Conventional Corn - Brooklyn (PDF)**](\images\2022 Research Report\Herbicide Programs for Conventional Corn - Brooklyn.pdf)
+
+-   [**POST and Sequential Weed Control with Maverick (PDF)**](\images\2022 Research Report\POST and Sequential Weed Control with Maverick.pdf)
+
+**2022 Soybean Weed Control Trials (field images):**
+
+-   [**Authority Brand Soybean Herbicide Programs - Brooklyn (PDF)**](\images\2022 Research Report\Authority Brand Soybean Herbicide Programs - Brooklyn.pdf)
+
+-   [**Authority Brand Soybean Herbicide Programs - Janesville (PDF)**](\images\2022 Research Report\Authority Brand Soybean Herbicide Programs - Janesville.pdf)
+
+-   [**Evaluation of Layered Residual Herbicide Programs in Enlist Soybean (PDF)**](\images\2022 Research Report\Evaluation of Layered Residual Herbicide Programs in Enlist Soybean.pdf)
+
+-   [**Evaluation of Tendovo for Residual Weed Control and Crop Safety (PDF)**](\images\2022 Research Report\Evaluation of Tendovo for Residual Weed Control and Crop Safety.pdf)
+
+-   [**Preview 2.1SC Herbicide Programs in Enlist Soybean (PDF)**](\images\2022 Research Report\Preview 2.1SC Herbicide Programs in Enlist Soybean.pdf)
+
+-   [**Reviton Burndown Programs in Soybean (PDF)**](\images\2022 Research Report\Reviton Burndown Programs in Soybean.pdf)
+
+-   [**Waterhemp Management in Early Planted Enlist Soybean (PDF)**](\images\2022 Research Report\Waterhemp Management in Early Planted Enlist Soybean.pdf)
+
+-   [**XtendFlex Soybean Herbicide Program Recommendations without Dicamba (PDF)**](\images\2022 Research Report\XtendFlex Soybean Herbicide Program Recommendations without Dicamba.pdf)
+
+-   [**XtendFlex Soybean Herbicide Programs (PDF)**](\images\2022 Research Report\XtendFlex Soybean Herbicide Programs.pdf)
+
+-   [**XtendFlex Soybean Herbicide Programs for ESA Counties (PDF)**](\images\2022 Research Report\XtendFlex Soybean Herbicide Programs for ESA Counties.pdf)
+
+-   [**XtendiMax Paired Soil Residual Herbicide Programs (PDF)**](\images\2022 Research Report\XtendiMax Paired Soil Residual Herbicide Programs.pdf)
+
 -   [**Concerned about herbicide carryover with interseeded cover crops? Try a bioassay! (YouTube Video)**](https://www.youtube.com/watch?v=0cloiyRrRoU)
 
 -   [**No Time to Panic When Your Sweet Corn Field Sours (Story Map)**](https://storymaps.arcgis.com/stories/59967888d16d49c3b6cccc3130e7b994)
@@ -187,12 +229,6 @@ about:
 
 ## **2019 Research Reports**
 
--   [**2019 Pest Management Update Meetings: WiscWeeds Research Update (PDF)**](/images/Reports/2019%20PMU%20Handout_Final.pdf)
-
--   [**Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean (PDF)**](/images/2018%202019%20waterhemp%20challenge/PreEmergence_waterhempFINAL.pdf)
-
--   [**2019 WiscWeeds Comparison of Soil Residual Herbicides in Corn (PDF)**](/images/2019%20corn%20residual/WiscWeeds%20Herbicide%20Comparison%20for%20Residual%20Waterhemp%20Control%20in%20Corn.pdf)
-
 -   [**2019 Wisconsin Weed Science Research Report (PDF)**](/images/2019%20Research%20Report/2019%20Wisconsin%20Weed%20science%20Research%20Report.pdf)
 
 **2019 Corn Weed Control Trials (field images):**
@@ -216,6 +252,12 @@ about:
 -   [**Liberty and Enlist One/Enlist Duo Efficacy in Enlist Soybean (PDF)**](/images/2019%20Research%20Report/Liberty%20and%20Enlist%20One-Enlist%20Duo%20Efficacy%20in%20Enlist%20Soybean_WiscWeeds%202019.pdf)
 
 -   [**Valent Herbicides in a Liberty Link System (PDF)**](/images/2019%20Research%20Report/Valent%20Actives%20in%20a%20Liberty%20Link%20System_WiscWeeds%202019.pdf)
+
+-   [**2019 Pest Management Update Meetings: WiscWeeds Research Update (PDF)**](/images/Reports/2019%20PMU%20Handout_Final.pdf)
+
+-   [**Residual Control of Waterhemp with PRE-emergence Herbicides in Soybean (PDF)**](/images/2018%202019%20waterhemp%20challenge/PreEmergence_waterhempFINAL.pdf)
+
+-   [**2019 WiscWeeds Comparison of Soil Residual Herbicides in Corn (PDF)**](/images/2019%20corn%20residual/WiscWeeds%20Herbicide%20Comparison%20for%20Residual%20Waterhemp%20Control%20in%20Corn.pdf)
 
 -   [**2019 Wisconsin large-scale 2,4-D drift trial (Vimeo Video)**](https://vimeo.com/357101555)
 
