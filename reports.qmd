@@ -27,6 +27,10 @@ about:
     #  href: https://github.com
 ---
 
+## **2023 Research Reports**
+
+-   [**The Six R's of Waterhemp Management in Soybeans (PDF)**](images/2023ResearchReport/SixRsOfWaterhempManagement.pdf)
+
 ## **2022 Research Reports**
 
 -   [**2022 Wisconsin Weed Science Research Report (PDF)**](/images/2022%20Research%20Report/2022%20Wisconsin%20Weed%20science%20Research%20Report.pdf)
