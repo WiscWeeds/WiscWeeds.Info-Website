@@ -1,0 +1,27 @@
+---
+title: "Wisconsin Palmer amaranth, where are you?"
+author: "Arneson, Faleco & Werle"
+date: "2023-02-22"
+categories: [news, reports]
+image: "WI Soybean field Infested with Palmer amaranth.jpg"
+---
+
+Show of hands, how many of you have heard of Palmer amaranth?
+
+We can't see how many of you have raised your hands, but we are going to guess that most of you reading this article have at least *heard* of Palmer amaranth. However, we expect that many of you are yet to see this pesky pest here in Wisconsin (we truly hope you don't). This is both good and bad news. The ***good news:*** over the past five years, the WiscWeeds program has put considerable effort into increasing statewide awareness of the ongoing Palmer amaranth invasion of our agricultural landscape. The ***bad news:*** as of recent, Palmer amaranth is spreading throughout Wisconsin, slowly but surely. Despite our best efforts, we continue to stumble upon new Palmer amaranth infestations that aren't really that '***new**'*.
+
+![*Soybean field in southern Wisconsin severely infested with Palmer amaranth.*](WI%20Soybean%20field%20Infested%20with%20Palmer%20amaranth.jpg)
+
+Before we get too far, let's talk Palmer amaranth history in Wisconsin. Palmer amaranth was first detected in Rock County in 2011 by our predecessors and has since been found in 12 additional counties. There have been reports of Palmer amaranth existing as far north as Chippewa Co. and back down to the Illinois border. A common thread among Palmer amaranth infestations in Wisconsin is the importation of contaminated dairy feed, grain, or equipment from the Southern and Western USA, where Palmer amaranth is a problematic weed species. But, there is an important caveat to the current Palmer amaranth distribution map: **just because we haven't documented it in your county, it doesn't mean Palmer amaranth isn't already there lurking...**
+
+![*Wisconsin counties (red) where at least one Palmer amaranth infestation has been confirmed. Palmer amaranth distribution map updated in the fall of 2022. Thanks to our stakeholders for helping us keep this map up to date.*](2022%20Palmer%20amaranth%20distribution.png)
+
+So, why are we so worried about Palmer amaranth anyway? Well, you've heard of waterhemp, right? That yield-robbing, fast-growing, rampant seed-producing, rapid herbicide resistance developing, and emerging all dang summer wicked pigweed? You know, *that guy*? Well, Palmer amaranth and waterhemp are 'cousins' (same weed family: pigweed). And unfortunately, Palmer amaranth can do all of that and more! Recent UW-Madison research has shown that novel Palmer amaranth infestations [**come equipped with herbicide resistance**](https://www.cambridge.org/core/journals/weed-technology/article/multiple-resistance-to-imazethapyr-atrazine-and-glyphosate-in-a-recently-introduced-palmer-amaranth-amaranthus-palmeri-accession-in-wisconsin/37F4DC740053C7489FD1FDD2CE8C03B8) and [[**are adapting to our northern climate**]{.underline}](https://www.frontiersin.org/articles/10.3389/fagro.2022.887629/full). A potential positive bottleneck of Palmer amaranth's invasion of Wisconsin is the detrimental effects our long winters may have on its seed dormancy and survival. Additionally, a good thing about these similarities between Palmer amaranth and waterhemp is that the [**strategies to effectively control one *should* work on the other**]{.underline}.
+
+[![The pigweed cousins! It can be difficult to tell them apart. Click the image above to check the video by Dr. Mark Renz: "Identifying Palmer amaranth and waterhemp in Wisconsin using vegetative characteristics".](Amaranthus%20spp.png)](https://www.youtube.com/watch?v=A1vB_DQTkHI&feature=youtu.be)
+
+This winter, the WiscWeeds team sat down to compile all of UW-Madison's efforts to promote Palmer amaranth awareness into a one-stop shop of relevant material. Check out the new resource here (Arneson et al. 2022): [**Palmer Amaranth: the Pest that Doesn't Pull any Punches.**](https://storymaps.arcgis.com/stories/95bf678bfd5549fbb0e61f0e995f6ea3)
+
+[![](Palmer%20Story%20Map.jpg)](https://storymaps.arcgis.com/stories/95bf678bfd5549fbb0e61f0e995f6ea3)
+
+Thanks for reading this article and let's keep Wisconsin Palmer amaranth-free!
