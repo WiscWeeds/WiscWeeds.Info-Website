@@ -1,0 +1,49 @@
+---
+title: "How we believe cereal rye cover crop suppresses waterhemp"
+author: "Nunes, Arneson, & Werle"
+date: "2023-02-24"
+categories: [waterhemp, cover crop]
+image: "Waterhemp suppression.png"
+---
+
+Over the past few years, the WiscWeeds program has been preaching that a properly managed cereal rye (*Secale cereale*) cover crop can effectively suppress waterhemp (*Amaranthus tuberculatus*) emergence and development thus should be considered as part of integrated weed management programs (Figure 1).
+
+![***Figure 1.** Effective waterhemp suppression with cereal rye cover crop biomass (right; \>4,000 lbs of cereal rye biomass per acre).*](Waterhemp%20suppression.png)
+
+Despite showing you data that cereal rye cover crop can help with waterhemp management, we haven't demonstrated how it *actually* works. Let's put it this way, every herbicide has its own mode of action (how it kills a waterhemp plant), and we believe that cereal rye cover crop has its own sort of 'mode of action' that can help suppress waterhemp emergence and development.
+
+When asked, most people think that the waterhemp suppression comes from the release of chemical compounds by the cereal rye cover crop (allelopathy). Although this is probably part of the mode of action, the weed science literature suggests that there is more to that. To address this, we conducted a study near Brooklyn (O'Brien Family Farms) and Janesville (Rock County Farm), WI, in the spring and summer of 2022 where we simulated a range of cereal rye cover crop biomass covering the soil surface going from 0 up to 10,000 lbs per acre. To simulate the various biomass levels, we harvested cereal rye plants from a field near Arlington, WI (Arlington Agricultural Research Station) in the spring, dried them in a big oven, and after weighing the samples, we spread the desired amount of biomass residue over the plots (Figure 2). Once everything was in place, we started collecting data:
+
+-   **Light interception (µmol m^-2^ s^-1^):** we used a light sensor to measure how much sunlight was being blocked by the cover crop biomass the day the study was established.
+
+-   **Waterhemp emergence:** once a week, for 10 weeks, we went to the field to determine the number of waterhemp seedlings that had emerged within a square-foot quadrat demarked within each plot. 
+
+-   **Soil temperature (ºF \[3-inch soil depth\]):** we monitored the soil temperature for 10 weeks in plots without cereal rye biomass and plots with 4,000 and 10,000 lbs of cereal rye biomass.
+
+![***Figure 2.** 2022 research plots with different levels of cereal rye cover crop biomass (O'Brien Family Farms near Brooklyn, WI). Picture by Jose Junior Nunes (WiscWeeds PhD Student).*](2022%20waterhemp%20suppression%20experiment.jpg)
+
+In summary, here is what we learned from the 2022 studies:
+
+-   First things first, here is why we recommend cereal rye cover crop as part of your weed management program: as we increased the amount of cereal rye cover crop biomass on the soil surface, better waterhemp suppression was observed (fewer plants emerged), and with biomass levels \>4,000 lbs/acre, there was also a significant delay in the time of waterhemp emergence. Instead of observing the first seedlings in early June like what happened when we did not have any or little cereal rye biomass, we first observed them in mid-June or even later, depending on the biomass amount.  
+
+-   Now let's talk about why we believe cereal rye cover crop reduced waterhemp emergence. The first piece of the cover crop mode of action is probably light interception. As we increase the cereal rye cover crop biomass, more sunlight was blocked. It took less than 1,000 lbs of biomass to intercept 50% of the light reaching the soil surface. We believe that the light reaching the soil is a trigger to waterhemp germination. Similar to your soybean, how many waterhemp plants do you see emerging after the crop fully closes its canopy compared to areas where the canopy is not fully closed?
+
+-   The second piece, we believe to be the reduction in soil temperature fluctuation along the day. Since the cover crop biomass is blocking the sunlight, the soil surface does not warm up as much when covered. The cover crop residue works like a thermal blanket covering the soil. And when it comes to waterhemp emergence, seeds need temperature fluctuation to trigger germination and emergence. For additional information, check the paper by Steckel et al. (2003): "[**Effects of Shading on Common Waterhemp (*Amaranthus rudis*) Growth and Development. Weed Science, 51(6), 898--903**](https://www.jstor.org/stable/4046743)".
+
+-   The third and final piece of this puzzle, we believe to be the physical barrier posed by the cereal rye cover crop biomass mulch. Even though some seedlings might emerge underneath the biomass, not all of them can make it to the other side of the mulch and end up exhausting their nutritional reserves on the way. If you take into consideration the size of a waterhemp seed, it makes sense, does it not?  
+
+Our hypothesis is that all these factors combined comprise the cereal rye cover crop mode of action to suppress waterhemp emergence and development. The changes that the cover crop biomass causes in the weed seed bank environment reduce the signals that trigger waterhemp seed germination. Even when the germination is triggered, the mulch makes it harder for seedlings to emerge and establish. A way to think about this hypothesis is to see things from a waterhemp seed perspective. Each waterhemp seed has only one chance to serve its purpose, which is to germinate and become a plant capable of reproducing to replenish the weed seedbank (it is a cycle). If the germination is triggered but conditions are not favorable (like when we have the cereal rye cover crop mulch) and the seedling dies in the process, that is game over. But if the seed germination is never triggered, the seed will remain in the soil until conditions are favorable, waiting for its next chance. Now if it waits too long, it may decay in the soil and not serve its purpose. Thus, that is probably why we see fewer waterhemp plants where cereal rye cover crop is adopted and properly managed for effective weed suppression.
+
+We know that there is a lot of "we believe/we think" in this article, but this is just the nature of research. Please do not just take our word for all of this. We encourage you to give it some thought, and if you feel like sharing your hypothesis(es) and research questions with us, please feel free to shoot us an email or drop a call so we can talk more about it. And don't worry, we intend to replicate this research in 2023 to further validate our findings.
+
+Waterhemp not a problem in your field? How about giant ragweed? A complimentary blog post is being developed by Guilherme Chudzik (WiscWeeds MS student) documenting his preliminary research findings on the impact of cereal rye cover crop on giant ragweed. Stay tuned!
+
+The research reported herein is being led by Jose Junior Nunes (WiscWeeds PhD student). Click [**here**](Nunesetal(2022 NCWSS).pdf) to see Nunes' poster presented during the 2022 North Central Weed Science Society Meetings (December 2022) in St. Louis, MO. Nunes wont first place presentation with this poster (congrats Jose!).
+
+**Additional resources:**
+
+-   [**Weed Suppression in Corn-Soy Systems with Cereal Rye (Story Map)**](https://storymaps.arcgis.com/stories/273d046d86da4a1ebaedbaea4267a9f4)
+
+-   [**Cereal Rye Cover Crop Management in Wisconsin (PDF)**](https://ipcm.wisc.edu/wp-content/uploads/sites/54/2022/11/UW_CerealRyeMgmt_final.pdf)
+
+*This article was written by Jose Junior Nunes (PhD Student), Nick Arneson (Outreach Program Manager), and Rodrigo Werle (Assistant Professor). All authors are affiliated with UW-Madison.*
