@@ -1,14 +1,14 @@
 ---
-title: "Lack of Effective Waterhemp Control With Soil-Applied PPO-Inhibitor (Group 14) Herbicides Further Highlights The Need for Integrated Weed Management Practices "
+title: "Lack of Effective Waterhemp Control with Soil-applied PPO-inhibitor (Group 14) Herbicides Further Highlights the Need for Integrated Weed Management Practices "
 author: "Faleco, Arneson, & Werle"
 date: "2023-03-08"
 categories: [waterhemp, herbicides]
 image: "WaterhempScreening.jpeg"
 ---
 
-*\"The WiscWeeds program recommends the use of effective soil residual herbicides for control of waterhemp populations resistant to glyphosate and other commonly used POST herbicides. But now we have documented waterhemp resistance to the very effective soil residual herbicide sulfentrazone (Group 14). That\'s not good news! It\'s time to truly think outside the jug and integrate chemical and non-chemical management practices.\" Rodrigo Werle* on behalf of the WiscWeeds Team
+*"The WiscWeeds program recommends the use of effective soil residual herbicides for control of waterhemp populations resistant to glyphosate and other commonly used POST herbicides. But now we have documented waterhemp resistance to the very effective soil residual herbicide sulfentrazone (Group 14). That's not good news! It's time to truly think outside the jug and integrate chemical and non-chemical management practices." Rodrigo Werle* on behalf of the WiscWeeds Team.
 
-![***Figure 1.** Waterhemp seedlings growing in the UW-Madison Walnut Street greenhouse for a comprehensive, Wisconsin state-wide assessment of waterhemp response to a diverse group of POST herbicide sites of action. Picture by Felipe Faleco.* ](WaterhempScreening.jpeg)
+![***Figure 1.** Waterhemp seedlings growing in the UW-Madison Walnut Street greenhouse for a comprehensive, Wisconsin state-wide assessment of waterhemp response to a diverse group of POST herbicide sites of action. Picture by Felipe Faleco.*](WaterhempScreening.jpeg)
 
 \
 
@@ -16,13 +16,11 @@ Herbicide resistance monitoring across Wisconsin has been a top priority to UW-M
 
 \
 
-In 2021, an Ag Consultant from WI (a trusted advisor of the WiscWeeds Research Coalition) reached out to our program expressing concern about a waterhemp population from southern WI (defined here as \"A92\") which was **not properly controlled with the soil-applied field label rate of sulfentrazone** (Spartan 4F® at 8 fl oz/acre). In other words, the PRE-emergence herbicide program containing sulfentrazone did not provide the length of residual waterhemp control that it should have provided. Additionally, we were informed that sulfentrazone had been used during previous soybean growing seasons in the field where this population was identified. Therefore, waterhemp seeds were collected and handed to our program for resistance investigation via dose-response greenhouse experiments. Usually, dose-response experiments to confirm herbicide resistance consist of exposing both a suspected resistant (A92 here) and a known susceptible population to multiple herbicide rates, ranging from very low to extremely high, to obtain a dose-response curve that estimates how much biomass or plant density reduction a certain herbicide rate will provide compared to the nontreated control (no herbicide treatment). Particularly, we are interested in the comparison between the estimated dose that will provide 50% biomass or plant density reduction (popularly known as ED~50~) for both the suspected resistant and the known susceptible population. From these comparisons, we can draw conclusions if the population of interest is indeed resistant to the herbicide being evaluated and, more importantly, what is the level of resistance (the bigger the difference between ED~50~ values for the resistant and the known susceptible population, the higher the level of resistance).
+In 2021, an Ag Consultant from WI (a trusted advisor of the WiscWeeds Research Coalition) reached out to our program expressing concern about a waterhemp population from southern WI (defined here as "A92") which was **not properly controlled with the soil-applied field label rate of sulfentrazone** (Spartan 4F® at 8 fl oz/acre). In other words, the PRE-emergence herbicide program containing sulfentrazone did not provide the length of residual waterhemp control that it should have provided. Additionally, we were informed that sulfentrazone had been used during previous soybean growing seasons in the field where this population was identified. Therefore, waterhemp seeds were collected and handed to our program for resistance investigation via dose-response greenhouse experiments. Usually, dose-response experiments to confirm herbicide resistance consist of exposing both a suspected resistant (A92 here) and a known susceptible population to multiple herbicide rates, ranging from very low to extremely high, to obtain a dose-response curve that estimates how much biomass or plant density reduction a certain herbicide rate will provide compared to the nontreated control (no herbicide treatment). Particularly, we are interested in the comparison between the estimated dose that will provide 50% biomass or plant density reduction (popularly known as ED~50~) for both the suspected resistant and the known susceptible population. From these comparisons, we can draw conclusions if the population of interest is indeed resistant to the herbicide being evaluated and, more importantly, what is the level of resistance (the bigger the difference between ED~50~ values for the resistant and the known susceptible population, the higher the level of resistance).
 
 \
 
-Switching back to our investigation, after comparing the concerning A92 population to a known
-PPO-inhibitor susceptible population (A66) via replicated dose-response greenhouse experiments with sulfentrazone (Spartan 4F®; field label rate: 8 fl oz ac^-1^) and fomesafen (Flexstar®; field label rate: 16 fl oz ac^-1^), we observed that the sulfentrazone ED~50~ for the A66 population was 32.8 g ai ha^-1^ compared to 87.6 g ai ha^-1^ for the A92 population (see Figures 2 and 3). In other words, we needed almost **three
-times** more sulfentrazone to obtain 50% plant density reduction for the A92 compared to the A66 population. Fomesafen results were even more alarming: fomesafen ED~50~ for the A66 population was 13.5 g ai ha^-1^ compared to 132.0 g ai ha^-1^ for the A92 population (see Figures 4 and 5); almost **ten times** more active ingredient needed.
+Switching back to our investigation, after comparing the concerning A92 population to a known PPO-inhibitor susceptible population (A66) via replicated dose-response greenhouse experiments with sulfentrazone (Spartan 4F®; field label rate: 8 fl oz ac^-1^) and fomesafen (Flexstar®; field label rate: 16 fl oz ac^-1^), we observed that the sulfentrazone ED~50~ for the A66 population was 32.8 g ai ha^-1^ compared to 87.6 g ai ha^-1^ for the A92 population (see Figures 2 and 3). In other words, we needed almost **three times** more sulfentrazone to obtain 50% plant density reduction for the A92 compared to the A66 population. Fomesafen results were even more alarming: fomesafen ED~50~ for the A66 population was 13.5 g ai ha^-1^ compared to 132.0 g ai ha^-1^ for the A92 population (see Figures 4 and 5); almost **ten times** more active ingredient needed.
 
 \
 
@@ -42,7 +40,7 @@ times** more sulfentrazone to obtain 50% plant density reduction for the A92 com
 
 \
 
-![***Figure 5.** Response of the suspected resistant (A92) and known susceptible (A66) waterhemp populations from WI 28 DAT with soil-applied fomesafen at 0x, 0.125x, 0.25x, 0.5x, 1x, 2x, 4x, and 8x the label rate. 1x fomesafen rate = 1 pt of Flextar per acre. Picture by Felipe Faleco.* ](FomesafenPicture.jpg)
+![***Figure 5.** Response of the suspected resistant (A92) and known susceptible (A66) waterhemp populations from WI 28 DAT with soil-applied fomesafen at 0x, 0.125x, 0.25x, 0.5x, 1x, 2x, 4x, and 8x the label rate. 1x fomesafen rate = 1 pt of Flextar per acre. Picture by Felipe Faleco.*](FomesafenPicture.jpg)
 
 \
 
@@ -52,10 +50,9 @@ times** more sulfentrazone to obtain 50% plant density reduction for the A92 com
 
 -   From a practical standpoint, these results suggest that the window of soil residual control of this A92 waterhemp population from southern Wisconsin with soil-applied sulfentrazone and fomesafen is expected to be reduced.
 
--   These results are very concerning given the importance of these two herbicides for
-    residual waterhemp control in Wisconsin soybean production.
+-   These results are very concerning given the importance of these two herbicides for residual waterhemp control in Wisconsin soybean production.
 
--   Our results highlight the importance of a proactive herbicide resistance management programs, including the diversified use of effective herbicide mixtures aligned with non-chemical weed management strategies.
+-   Our results highlight the importance of proactive herbicide resistance management programs, including the diversified use of effective herbicide mixtures aligned with non-chemical weed management strategies.
 
 -   Future research will investigate the A92 response to PPO-inhibitor herbicides applied POST (e.g., Cobra, Flextar, Resource), and the molecular mechanism of resistance.
 
