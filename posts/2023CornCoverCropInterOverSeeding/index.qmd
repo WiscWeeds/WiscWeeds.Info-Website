@@ -2,7 +2,7 @@
 title: "Can effective residual waterhemp control AND successful establishment of interseeded or overseeded cover crops into corn be achieved?"
 author: "Silva, Arneson, & Werle"
 date: "2023-06-20"
-categories: [cover crop]
+categories: [cover crop, herbicides]
 image: "Figure4.jpg"
 ---
 
@@ -14,7 +14,7 @@ If you are not familiar with interseeding and overseeding, these are two methods
 
 More growers across the US Midwest are considering interseeding and overseeding cover crops into corn to reduce soil erosion, improve soil health, suppress weeds, increase biodiversity, and provide forage or grazing opportunities for livestock. Remember, if your crop is harvested for human consumption or animal feed, *you must comply with the plant-back intervals (PBIs)* established by the U.S. Environmental Protection Agency (EPA) that dictate *the minimum period of time between a pesticide application and the planting of your next crop.* PBI restrictions do not apply to cover crops planted solely to improve soil quality, reduce erosion, or suppress weeds (which is the focus of this research effort), since there is no risk of animal and/or human dietary exposure.
 
-Now let\'s bring back the residual PRE herbicides and interseeding and overseeding concept. Based on the challenges in controlling troublesome weeds, such as waterhemp, and the potential risk of further weed resistance, the WiscWeeds Program recommends PRE herbicide premixes with at least two sites of action (SOAs) for enhancing residual weed control, which limits the cover crop species options to be interseeded or overseeded into corn. This begs the question: "*Is the interseeding or overseeding system a reality for Wisconsin corn growers that have waterhemp in their fields?*". We established two studies in 2021 and 2022 to start answering this question. One was conducted in the field to select PRE herbicides that provide effective waterhemp control and another in the greenhouse using field-treated soil via bioassay to select potential herbicides that caused minimal impact on cover crop established at different times after application.
+Now let's bring back the residual PRE herbicides and interseeding and overseeding concept. Based on the challenges in controlling troublesome weeds, such as waterhemp, and the potential risk of further weed resistance, the WiscWeeds Program recommends PRE herbicide premixes with at least two sites of action (SOAs) for enhancing residual weed control, which limits the cover crop species options to be interseeded or overseeded into corn. This begs the question: "*Is the interseeding or overseeding system a reality for Wisconsin corn growers that have waterhemp in their fields?*". We established two studies in 2021 and 2022 to start answering this question. One was conducted in the field to select PRE herbicides that provide effective waterhemp control and another in the greenhouse using field-treated soil via bioassay to select potential herbicides that caused minimal impact on cover crop established at different times after application.
 
 **Field study:** treatments consisted of 18 single and multiple sites of action (SOAs) PRE herbicides plus a nontreated check.
 
@@ -24,7 +24,7 @@ Now let\'s bring back the residual PRE herbicides and interseeding and overseedi
 
 \
 
-**Field results:** most herbicides provided \>75% of waterhemp control (Figure 3) and herbicide premixes with more than one SOA tended to provide better waterhemp control than herbicides with a single SOA (see \"[**2022 Wisconsin Weed Science Research Report (PDF)**](https://wiscweeds.info/images/2022%20Research%20Report/2022%20Wisconsin%20Weed%20science%20Research%20Report.pdf)\" for more detailed results and information).
+**Field results:** most herbicides provided \>75% of waterhemp control (Figure 3) and herbicide premixes with more than one SOA tended to provide better waterhemp control than herbicides with a single SOA (see "[**2022 Wisconsin Weed Science Research Report (PDF)**](https://wiscweeds.info/images/2022%20Research%20Report/2022%20Wisconsin%20Weed%20science%20Research%20Report.pdf)" for more detailed results and information).
 
 ![**Figure 3.** Waterhemp (*Amaranthus tuberculatus* L.) control 6 weeks after treatment by soil residual herbicides applied PRE in 2021 (left) and 2022 (right) at Lancaster Agricultural Research Station.](Figure3.jpg)
 
@@ -70,7 +70,7 @@ Moving forward, we intend to conduct field experiments to further validate our b
 
 \
 
-The research reported herein was led by Tatiane Severo Silva (former WiscWeeds PhD student). Click [**here**](2022_Tati_NCWSS (168).pdf) to see Silva\'s slides presented during the 2022 North Central Weed Science Society Meetings (December 2022) in St. Louis, MO. Silva also presented a video ("[**Concerned about herbicide carryover with interseeded cover crops? Try a bioassay!**](https://www.youtube.com/watch?v=0cloiyRrRoU&t=3s)")at the same Conference. Silva won first place paper and video presentations (congrats Tatiane!).
+The research reported herein was led by Tatiane Severo Silva (former WiscWeeds PhD student). Click [**here**](2022_Tati_NCWSS%20(168).pdf) to see Silva's slides presented during the 2022 North Central Weed Science Society Meetings (December 2022) in St. Louis, MO. Silva also presented a video ("[**Concerned about herbicide carryover with interseeded cover crops? Try a bioassay!**](https://www.youtube.com/watch?v=0cloiyRrRoU&t=3s)")at the same Conference. Silva won first place paper and video presentations (congrats Tatiane!).
 
 *This article was written by Tatiane Severo Silva (Postdoctoral Research Associate) with the support of Nick Arneson (Outreach Program Manager) and Rodrigo Werle (Associate Professor). All authors are affiliated with UW-Madison.*
 
