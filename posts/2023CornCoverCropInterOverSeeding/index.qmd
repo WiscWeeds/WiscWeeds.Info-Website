@@ -40,7 +40,7 @@ Now let's bring back the residual PRE herbicides and interseeding and overseedin
 
 -   Annual ryegrass and cereal rye were sensitive to treatments containing herbicide group 15 (acetochlor and S-metolachlor) but not as impacted by herbicide groups 2, 4, 5, 14, and 27 at 30 and 70 DAT (Figure 4).
 
--   Radish and red clover were sensitive to herbicide groups 2, 4, and 27 whereas groups 5, 14, and 15 had minimal impact on their establishment at 30 and 70 DAT (Figure 4).
+-   Radish and red clover were sensitive to treatments containing herbicide groups 2, 4, and 27 but not as impacted by herbicide groups 5, 14, and 15 at 30 and 70 DAT (Figure 4).
 
 ![Figure 4. Injury of S-metolachlor on cereal rye (A) and annual ryegrass (B) and mesotrione injury on radish (C) and red clover (D). Pictures taken by Tatiane Severo Silva on 09/17/2022.](Figure4.jpg)
 
