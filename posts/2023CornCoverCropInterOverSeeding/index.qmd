@@ -34,7 +34,7 @@ Now let's bring back the residual PRE herbicides and interseeding and overseedin
 
 **Greenhouse bioassay results:** in fact, premixes with 2 & 3 SOAs had a higher negative impact on cover crops than herbicides with a single SOA.
 
--   All SOA groups (2 \[thiencarbazone-methyl\], 4 \[clopyralid\], 14 \[saflufenacil\], 15 \[acetochlor and S-metolachlor\], 27 \[mesotrione and dimethenamid-P\]) PRE herbicides tested, except 5 (atrazine and simazine), resulted in biomass reduction of at least one cover crop at 30 and 70 days after treatment (DAT).
+-   All SOA groups (2 \[thiencarbazone-methyl\], 4 \[clopyralid\], 14 \[saflufenacil\], 15 \[acetochlor and S-metolachlor\], and 27 \[mesotrione and dimethenamid-P\]) PRE herbicides tested, except 5 (atrazine and simazine), resulted in biomass reduction of at least one cover crop at 30 and 70 days after treatment (DAT).
 
 -   As expected, higher injury was observed when cover crop were seeded 30 DAT (overseeding system) versus 70 DAT (interseeding system).
 
