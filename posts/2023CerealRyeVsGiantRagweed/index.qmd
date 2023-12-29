@@ -1,0 +1,43 @@
+---
+title: "Quantifying success: Cereal rye versus giant ragweed"
+author: "Chudzik & Werle"
+date: "2023-12-29"
+categories: [cover crop]
+image: "Figure 1.png"
+---
+
+Giant ragweed (*Ambrosia trifida* L.) is an early emerging and competitive weed species in corn-soybean cropping systems. The use of integrated strategies such as adoption of cereal rye cover crop can comprise an integrated approach to weed management, potentially delaying further selection of herbicide-resistant biotypes. A field study was conducted to determine the amount of dry cereal rye (*Secale cereale* L.) cover crop biomass needed to suppress giant ragweed density and growth. The study was conducted in 2022 and 2023 at the Rock County Farm near Janesville, WI.
+
+Cereal rye biomass was collected in the spring from a fall-seeded cover cropped field at the University of Wisconsin-Madison Arlington Agricultural Research Station, oven-dried until constant mass at 140ºF, and then transported to Rock County Farm. Our cereal rye biomass dose response study consisted of eight dry cereal rye biomass rates: 0, 500, 1,100, 2,200, 4,400, 6,600, 8,800, and 11,000 lbs of dry cereal rye biomass per acre **(Figure 1).** The cereal rye biomass was weighed to meet the respective rate of biomass per acre based on plot size and evenly spread on the surface of each plot (3 x 7 ft). The study was established on May 30, 2022 and May 30, 2023. At 42 days after study establishment, giant ragweed biomass samples were collected using two quadrats (1/4 square meter) per plot, where giant ragweed density and dry biomass were estimated by counting and clipping plants at the soil level.
+
+![**Figure 1.** Overview of plots with dry cereal rye cover crop biomass corresponding to: A) 1,100 lbs per acre, B) 4,400 lbs per acre, and C) 11,000 lbs per acre.](Figure 1.png)
+
+\
+**RESULTS:** Our findings revealed a consistent reduction in giant ragweed density and biomass with an increase in cereal rye biomass for both years **(Figures 2 and 3).** A trend of decreasing giant ragweed density was evident with the increasing levels of cereal rye biomass. In 2022, \~3,800 lbs of dry cereal rye biomass per acre was necessary to achieve 50% reduction in giant ragweed density 42 days after study establishment. In 2023, \~6,700 lbs of dry cereal rye biomass per acre was necessary to achieve 50% reduction in giant ragweed density 42 days after study establishment **(Figure 2).** Our results indicate that between years, an average of 3,500 lbs of dry cereal rye biomass per acre was necessary to achieve 50% reduction in giant ragweed biomass 42 days after study establishment **(Figure 3).**
+
+\
+
+![**Figure 2.** Density regression curves for 2022 and 2023 show the effects of cereal rye cover crop biomass on giant ragweed density 42 days after study establishment.](Figure 2.png)
+
+\
+
+![**Figure 3.** Biomass regression curve for 2022 and 2023 show the effect of cereal rye cover crop biomass on giant ragweed biomass 42 days after study establishment.](Figure 3.png)
+
+\
+
+**CONCLUSIONS:** These findings underscore the practical application of cereal rye as a valuable tool for farmers looking to control giant ragweed, promoting sustainable and effective agricultural practices. At least 3,500 lbs of dry cereal rye biomass per acre was necessary to provide effective giant ragweed suppression.
+
+The research reported herein was led by Guilherme Chudzik (WiscWeeds MS student). Click [**here**](GChudzik_NCWSS_Poster_2023.pdf) to see Chudzik's poster presented during the 2023 North Central Weed Science Society Meetings (December 2023) in Minneapolis, MN. Chudzik won first place poster presentation during the conference (congrats, Guilherme!).
+
+\
+
+**Additional Resources:**
+
+-   [**What benefits (and challenges) can the planting green system bring to soybean production?**](https://wiscweeds.info/posts/2023soybeanplantinggreensystem/)
+
+-   [**How we believe cereal rye cover crop suppresses waterhemp**](https://wiscweeds.info/posts/waterhempsuppressionwithcerealryecovercrop/)
+
+\
+*This article was written by Guilherme Chudzik (WiscWeeds MS Student) with the support of Dr. Rodrigo Werle (Associate Professor & Extension Weed Scientist). Both authors are affiliated with UW-Madison.*
+
+*Thanks to Ryan DeWerff (WiscWeeds Research Specialist), Nick Arneson (Former WiscWeeds Outreach Program Manager), and Jose Junior Nunes (WiscWeeds PhD Student) for their assistance with the field experiments, and the WiscWeeds team and Rock County Farm staff for supporting this research. This project was partially funded by the Wisconsin Soybean Marketing Board.*
