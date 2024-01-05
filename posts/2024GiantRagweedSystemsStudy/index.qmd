@@ -12,7 +12,7 @@ Thus, a field study was conducted by WiscWeeds Graduate Research Assistant Guilh
 
 Study treatments consisted of:
 
--   ***Four soil management strategies:*** i) *conventional tillage* (chisel-plow in the fall and field cultivator in the spring), ii) *no-till*, and fall-planted cereal rye treatments terminated at two different times: iii) *cereal rye early terminated* (10-14 days before planting) and iv) *cereal rye* late terminated (\'*planting green*\'; within three days of soybean planting).
+-   ***Four soil management strategies:*** i) *conventional tillage* (chisel-plow in the fall and field cultivator in the spring), ii) *no-till*, and fall-planted cereal rye treatments terminated at two different times: iii) *cereal rye early terminated* (10-14 days before planting) and iv) *cereal rye* late terminated ('*planting green*'; within three days of soybean planting).
 
 -   ***Two soybean planting times:*** *early* (early to mid-May) and *late* (late-May).
 
@@ -26,17 +26,17 @@ STUDY RESULTS\
 
 ***Cereal Rye Cover Crop.*** Delaying cereal rye termination in the spring by 3 to 4 weeks allowed the cover crop to accumulate \>six times more biomass when compared to the earliest termination time (Figure 1).
 
-![**Figure 1.** Cereal rye cover crop dry biomass accumulation (lbs/acre) at the time of termination.](Figure 1.png)
+![**Figure 1.** Cereal rye cover crop dry biomass accumulation (lbs/acre) at the time of termination.](Figure%201.png)
 
 \
 
-***Planting Green vs Giant Ragweed.*** The planting green system did not result in greater giant ragweed density reduction at the time of POST when compared to the early termination of cereal rye. The cereal rye cover crop biomass levels achieved in this study were not high enough to suppress giant ragweed (please see Chudzik\'s previous blog post [\"Quantifying success: Cereal rye versus giant ragweed\"](https://wiscweeds.info/posts/2023cerealryevsgiantragweed/)). In other words, cereal rye cover crop biomass can suppress giant ragweed emergence when enough biomass is present at the time of weed emergence; because giant ragweed emerges so early in the season and not enough cereal rye biomass was accumulated at that point, not enough giant ragweed suppression was observed in this study. This is different from what we see with waterhemp (*Amaranthus tuberculatus*), a smaller seeded weed species that emerges later in the season when the cereal rye cover crop has had enough time to accumulate biomass (see post by Nunes [\"How we believe cereal rye cover crop suppresses waterhemp\"](https://wiscweeds.info/posts/waterhempsuppressionwithcerealryecovercrop/)).
+***Planting Green vs Giant Ragweed.*** The planting green system did not result in greater giant ragweed density reduction at the time of POST when compared to the early termination of cereal rye. The cereal rye cover crop biomass levels achieved in this study were not high enough to suppress giant ragweed (please see Chudzik's previous blog post ["Quantifying success: Cereal rye versus giant ragweed"](https://wiscweeds.info/posts/2023cerealryevsgiantragweed/)). In other words, cereal rye cover crop biomass can suppress giant ragweed emergence when enough biomass is present at the time of weed emergence; because giant ragweed emerges so early in the season and not enough cereal rye biomass was accumulated at that point, not enough giant ragweed suppression was observed in this study. This is different from what we see with waterhemp (*Amaranthus tuberculatus*), a smaller seeded weed species that emerges later in the season when the cereal rye cover crop has had enough time to accumulate biomass (see post by Nunes ["How we believe cereal rye cover crop suppresses waterhemp"](https://wiscweeds.info/posts/waterhempsuppressionwithcerealryecovercrop/)).
 
 \
 
 ***Pre-emergence Herbicide Adoption.*** The use of an effective PRE herbicide not only contributed to an overall reduction in giant ragweed density at POST, but also helped to control other weeds at the end of the season (Figure 2). The effective weed control provided by the use of an effective PRE program had a notably positive impact on soybean yield, highlighting the benefits of adopting such practice as a component of an integrated weed management program.
 
-![**Figure 2.** End of season weed control. Both plots were late planted no-till soybean; the difference was the use of an effective PRE-emergence herbicide program at planting. ](Figure 3.png)
+![**Figure 2.** End of season weed control. Both plots were late planted no-till soybean; the difference was the use of an effective PRE-emergence herbicide program at planting.](Figure%203.png)
 
 \
 
@@ -52,9 +52,9 @@ STUDY RESULTS\
 
 \
 
-So back to the original question, *\"**Can cereal rye cover crop suppress giant ragweed without impacting soybean yield?**\"*, the results of this study indicate that other strategies can be more effective for giant ragweed management and less risky to soybean yield compared to late cover crop termination because not enough cereal rye biomass was produced at the time of active giant ragweed emergence in this study. It\'s important to mention that cereal rye was drilled late in the fall of 2021 and 2022 (11/05/2021 and 10/28/2022) into heavy corn residue, which may explain the lower than antecipated cover crop biomass accumulation during the springs of 2022 and 2023 (Figure 2).
+So back to the original question, *"**Can cereal rye cover crop suppress giant ragweed without impacting soybean yield?**"*, the results of this study indicate that other strategies can be more effective for giant ragweed management and less risky to soybean yield compared to late cover crop termination because not enough cereal rye biomass was produced at the time of active giant ragweed emergence in this study. It's important to mention that cereal rye was drilled late in the fall of 2021 and 2022 (11/05/2021 and 10/28/2022) into heavy corn residue, which may explain the lower than antecipated cover crop biomass accumulation during the springs of 2022 and 2023.
 
-![**Figure 3.** Planting soybean green in late-May at Rock County Farm, Janesville, WI. ](PlantingGreen.jpg)
+![**Figure 3.** Planting soybean green in late-May at Rock County Farm, Janesville, WI.](PlantingGreen.jpg)
 
 \
 
