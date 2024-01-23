@@ -29,6 +29,8 @@ about:
 
 ## **2023 Research Reports**
 
+-   [**2023 Wisconsin Weed Science Research Report (PDF)**](images/2023ResearchReport/2023WisconsinWeedScienceResearchReport.pdf)
+
 -   [**Soybean PRE Herbicide Evaluation in Challenging Soils (PDF)**](images/2023ResearchReport/SoybeanPREHerbicideEvaluationInChallengingSoils.pdf)
 
 -   [**Waterhemp Got You Worried? WiscWeeds' Been There, Done That (Story Map)**](https://storymaps.arcgis.com/stories/9ae6d1c164e24c7987432dbe1cf67d0e)
