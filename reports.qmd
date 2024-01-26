@@ -31,6 +31,54 @@ about:
 
 -   [**2023 Wisconsin Weed Science Research Report (PDF)**](images/2023ResearchReport/2023WisconsinWeedScienceResearchReport.pdf)
 
+**2023 Corn Weed Control Trials (field images):**
+
+-   [**Albaugh PRE Corn Herbicide Programs**](images/2023ResearchReport/AlbaughPRECornHerbicidePrograms.pdf)
+
+-   [**Components of Corn Herbicide Premixes Comparison**](images/2023ResearchReport/ComponentsofCornHerbicidePremixesComparison.pdf)
+
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs with Atrazine**](images/2023ResearchReport/CornHerbicideShowcase1and2PassProgramswithAtrazine.pdf)
+
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs without Atrazine**](images/2023ResearchReport/CornHerbicideShowcase1and2PassProgramswithoutAtrazine.pdf)
+
+-   [**DiFlexx Paired Soil Residual Herbicide Programs**](images/2023ResearchReport/DiFlexxPairedSoilResidualHerbicidePrograms.pdf)
+
+-   [**Herbicide Programs for Conventional Corn**](images/2023ResearchReport/HerbicideProgramsforConventionalCorn.pdf)
+
+-   [**Maverick Herbicide PRE Weed Control Comparisons**](images/2023ResearchReport/MaverickHerbicidePREWeedControlComparisons.pdf)
+
+-   [**Maverick Herbicide Split-Application Comparisons**](images/2023ResearchReport/MaverickHerbicideSplitApplicationComparisons.pdf)
+
+-   [**Storen Giant Ragweed Control Comparisons**](images/2023ResearchReport/StorenGiantRagweedControlComparisons.pdf)
+
+-   [**Storen Weed Control and Crop Safety**](images/2023ResearchReport/StorenWeedControlandCropSafety.pdf)
+
+-   [**Surtain Weed Control and Crop Safety**](images/2023ResearchReport/SurtainWeedControlandCropSafety.pdf)
+
+-   [**Syngenta Corn Herbicide Programs Following a Winter Rye Cover Crop**](images/2023ResearchReport/SyngentaCornHerbicideProgramsFollowingaWinterRyeCoverCrop.pdf)
+
+**2023 Soybean Weed Control Trials (field images):**
+
+-   [**Authority Brand Soybean Herbicide Programs**](images/2023ResearchReport/AuthorityBrandSoybeanHerbicidePrograms.pdf)
+
+-   [**Evaluation of Layered Residual Herbicide Programs in Enlist Soybean**](images/2023ResearchReport/EvaluationofLayeredResidualHerbicideProgramsinEnlistSoybean.pdf)
+
+-   [**Evaluation of No-Till Herbicide Programs in Enlist Soybean**](images/2023ResearchReport/EvaluationofNoTillHerbicideProgramsinEnlistSoybean.pdf)
+
+-   [**Syngenta Herbicide Programs in Enlist Soybean**](images/2023ResearchReport/SyngentaHerbicideProgramsinEnlistSoybean.pdf)
+
+-   [**Syngenta Soybean Herbicide Programs Following a Winter Rye Cover Crop**](images/2023ResearchReport/SyngentaSoybeanHerbicideProgramsFollowingaWinterRyeCoverCrop.pdf)
+
+-   [**Xtendimax Paired Soil Residual Herbicide Programs**](images/2023ResearchReport/XtendimaxPairedSoilResidualHerbicidePrograms.pdf)
+
+-   [**Zidua PRO Residual Weed Control Comparisons**](images/2023ResearchReport/ZiduaPROResidualWeedControlComparisons.pdf)
+
+**2023 Spring Wheat Weed Control Trial (field images):**
+
+-   [**Anthem Flex Residual Control in Spring Wheat**](images/2023ResearchReport/AnthemFlexResidualControlinSpringWheat.pdf)
+
+**2023 General Reports**:
+
 -   [**Soybean PRE Herbicide Evaluation in Challenging Soils (PDF)**](images/2023ResearchReport/SoybeanPREHerbicideEvaluationInChallengingSoils.pdf)
 
 -   [**Waterhemp Got You Worried? WiscWeeds' Been There, Done That (Story Map)**](https://storymaps.arcgis.com/stories/9ae6d1c164e24c7987432dbe1cf67d0e)
@@ -84,6 +132,8 @@ about:
 -   [**XtendFlex Soybean Herbicide Programs for ESA Counties (PDF)**](\images\2022%20Research%20Report\XtendFlex%20Soybean%20Herbicide%20Programs%20for%20ESA%20Counties.pdf)
 
 -   [**XtendiMax Paired Soil Residual Herbicide Programs (PDF)**](\images\2022%20Research%20Report\XtendiMax%20Paired%20Soil%20Residual%20Herbicide%20Programs.pdf)
+
+**2022 General Reports**:
 
 -   [**Concerned about herbicide carryover with interseeded cover crops? Try a bioassay! (YouTube Video)**](https://www.youtube.com/watch?v=0cloiyRrRoU)
 
@@ -150,6 +200,8 @@ about:
 **2021 Bareground Weed Control Trials (field images):**
 
 -   [**Burndown Control of Giant Ragweed (PDF)**](/images/2021%20Research%20Report/Burndown%20Control%20of%20Giant%20Ragweed.pdf)
+
+**2021 General Reports**:
 
 -   [**2021 WiscWeeds Comparison of Herbicide Programs for Conventional Corn (PDF)**](/images/2021%20conventional%20corn/Herbicide%20Programs%20for%20Conventional%20Corn_Final%20Report.pdf)
 
@@ -223,6 +275,8 @@ about:
 
 -   [**Burndown Control of Glyphosate-Resistant Waterhemp (PDF)**](/images/2020%20Research%20Report/Burndown%20Control%20of%20Glyphosate-Resistant%20Waterhemp.pdf)
 
+**2020 General Reports**:
+
 -   [**WISCWEEDS RESEARCH UPDATE SERIES, Article 3: Influence of sulfentrazone and metribuzin applied preemergence on soybean development and yield (PDF)**](/images/Update%20Series%20Articles/WWRUS%20Article%203_Influence%20of%20PRE%20herbicides%20on%20soybean.pdf)
 
 -   [**2020 Pest Management Update Meetings: WiscWeeds Research Update (PDF)**](/images/Reports/2020%20PMU%20Handout_Final.pdf)
@@ -264,6 +318,8 @@ about:
 -   [**Liberty and Enlist One/Enlist Duo Efficacy in Enlist Soybean (PDF)**](/images/2019%20Research%20Report/Liberty%20and%20Enlist%20One-Enlist%20Duo%20Efficacy%20in%20Enlist%20Soybean_WiscWeeds%202019.pdf)
 
 -   [**Valent Herbicides in a Liberty Link System (PDF)**](/images/2019%20Research%20Report/Valent%20Actives%20in%20a%20Liberty%20Link%20System_WiscWeeds%202019.pdf)
+
+**2019 General Reports**:
 
 -   [**2019 Pest Management Update Meetings: WiscWeeds Research Update (PDF)**](/images/Reports/2019%20PMU%20Handout_Final.pdf)
 
