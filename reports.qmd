@@ -27,55 +27,59 @@ about:
     #  href: https://github.com
 ---
 
+## **2024 Research Reports**
+
+-   [**Giant Ragweed Control Research Summary 2018-2023 (PDF)**](images/2024ResearchReport/GiantRagweedControlResearchSummary.pdf)
+
 ## **2023 Research Reports**
 
 -   [**2023 Wisconsin Weed Science Research Report (PDF)**](images/2023ResearchReport/2023WisconsinWeedScienceResearchReport.pdf)
 
 **2023 Corn Weed Control Trials (field images):**
 
--   [**Albaugh PRE Corn Herbicide Programs**](images/2023ResearchReport/AlbaughPRECornHerbicidePrograms.pdf)
+-   [**Albaugh PRE Corn Herbicide Programs (PDF)**](images/2023ResearchReport/AlbaughPRECornHerbicidePrograms.pdf)
 
--   [**Components of Corn Herbicide Premixes Comparison**](images/2023ResearchReport/ComponentsofCornHerbicidePremixesComparison.pdf)
+-   [**Components of Corn Herbicide Premixes Comparison (PDF)**](images/2023ResearchReport/ComponentsofCornHerbicidePremixesComparison.pdf)
 
--   [**Corn Herbicide Showcase 1 and 2-Pass Programs with Atrazine**](images/2023ResearchReport/CornHerbicideShowcase1and2PassProgramswithAtrazine.pdf)
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs with Atrazine (PDF)**](images/2023ResearchReport/CornHerbicideShowcase1and2PassProgramswithAtrazine.pdf)
 
--   [**Corn Herbicide Showcase 1 and 2-Pass Programs without Atrazine**](images/2023ResearchReport/CornHerbicideShowcase1and2PassProgramswithoutAtrazine.pdf)
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs without Atrazine (PDF)**](images/2023ResearchReport/CornHerbicideShowcase1and2PassProgramswithoutAtrazine.pdf)
 
--   [**DiFlexx Paired Soil Residual Herbicide Programs**](images/2023ResearchReport/DiFlexxPairedSoilResidualHerbicidePrograms.pdf)
+-   [**DiFlexx Paired Soil Residual Herbicide Programs (PDF)**](images/2023ResearchReport/DiFlexxPairedSoilResidualHerbicidePrograms.pdf)
 
--   [**Herbicide Programs for Conventional Corn**](images/2023ResearchReport/HerbicideProgramsforConventionalCorn.pdf)
+-   [**Herbicide Programs for Conventional Corn (PDF)**](images/2023ResearchReport/HerbicideProgramsforConventionalCorn.pdf)
 
--   [**Maverick Herbicide PRE Weed Control Comparisons**](images/2023ResearchReport/MaverickHerbicidePREWeedControlComparisons.pdf)
+-   [**Maverick Herbicide PRE Weed Control Comparisons (PDF)**](images/2023ResearchReport/MaverickHerbicidePREWeedControlComparisons.pdf)
 
--   [**Maverick Herbicide Split-Application Comparisons**](images/2023ResearchReport/MaverickHerbicideSplitApplicationComparisons.pdf)
+-   [**Maverick Herbicide Split-Application Comparisons (PDF)**](images/2023ResearchReport/MaverickHerbicideSplitApplicationComparisons.pdf)
 
--   [**Storen Giant Ragweed Control Comparisons**](images/2023ResearchReport/StorenGiantRagweedControlComparisons.pdf)
+-   [**Storen Giant Ragweed Control Comparisons (PDF)**](images/2023ResearchReport/StorenGiantRagweedControlComparisons.pdf)
 
--   [**Storen Weed Control and Crop Safety**](images/2023ResearchReport/StorenWeedControlandCropSafety.pdf)
+-   [**Storen Weed Control and Crop Safety (PDF)**](images/2023ResearchReport/StorenWeedControlandCropSafety.pdf)
 
--   [**Surtain Weed Control and Crop Safety**](images/2023ResearchReport/SurtainWeedControlandCropSafety.pdf)
+-   [**Surtain Weed Control and Crop Safety (PDF)**](images/2023ResearchReport/SurtainWeedControlandCropSafety.pdf)
 
--   [**Syngenta Corn Herbicide Programs Following a Winter Rye Cover Crop**](images/2023ResearchReport/SyngentaCornHerbicideProgramsFollowingaWinterRyeCoverCrop.pdf)
+-   [**Syngenta Corn Herbicide Programs Following a Winter Rye Cover Crop (PDF)**](images/2023ResearchReport/SyngentaCornHerbicideProgramsFollowingaWinterRyeCoverCrop.pdf)
 
 **2023 Soybean Weed Control Trials (field images):**
 
--   [**Authority Brand Soybean Herbicide Programs**](images/2023ResearchReport/AuthorityBrandSoybeanHerbicidePrograms.pdf)
+-   [**Authority Brand Soybean Herbicide Programs (PDF)**](images/2023ResearchReport/AuthorityBrandSoybeanHerbicidePrograms.pdf)
 
--   [**Evaluation of Layered Residual Herbicide Programs in Enlist Soybean**](images/2023ResearchReport/EvaluationofLayeredResidualHerbicideProgramsinEnlistSoybean.pdf)
+-   [**Evaluation of Layered Residual Herbicide Programs in Enlist Soybean (PDF)**](images/2023ResearchReport/EvaluationofLayeredResidualHerbicideProgramsinEnlistSoybean.pdf)
 
--   [**Evaluation of No-Till Herbicide Programs in Enlist Soybean**](images/2023ResearchReport/EvaluationofNoTillHerbicideProgramsinEnlistSoybean.pdf)
+-   [**Evaluation of No-Till Herbicide Programs in Enlist Soybean (PDF)**](images/2023ResearchReport/EvaluationofNoTillHerbicideProgramsinEnlistSoybean.pdf)
 
--   [**Syngenta Herbicide Programs in Enlist Soybean**](images/2023ResearchReport/SyngentaHerbicideProgramsinEnlistSoybean.pdf)
+-   [**Syngenta Herbicide Programs in Enlist Soybean (PDF)**](images/2023ResearchReport/SyngentaHerbicideProgramsinEnlistSoybean.pdf)
 
--   [**Syngenta Soybean Herbicide Programs Following a Winter Rye Cover Crop**](images/2023ResearchReport/SyngentaSoybeanHerbicideProgramsFollowingaWinterRyeCoverCrop.pdf)
+-   [**Syngenta Soybean Herbicide Programs Following a Winter Rye Cover Crop (PDF)**](images/2023ResearchReport/SyngentaSoybeanHerbicideProgramsFollowingaWinterRyeCoverCrop.pdf)
 
--   [**Xtendimax Paired Soil Residual Herbicide Programs**](images/2023ResearchReport/XtendimaxPairedSoilResidualHerbicidePrograms.pdf)
+-   [**Xtendimax Paired Soil Residual Herbicide Programs (PDF)**](images/2023ResearchReport/XtendimaxPairedSoilResidualHerbicidePrograms.pdf)
 
--   [**Zidua PRO Residual Weed Control Comparisons**](images/2023ResearchReport/ZiduaPROResidualWeedControlComparisons.pdf)
+-   [**Zidua PRO Residual Weed Control Comparisons (PDF)**](images/2023ResearchReport/ZiduaPROResidualWeedControlComparisons.pdf)
 
 **2023 Spring Wheat Weed Control Trial (field images):**
 
--   [**Anthem Flex Residual Control in Spring Wheat**](images/2023ResearchReport/AnthemFlexResidualControlinSpringWheat.pdf)
+-   [**Anthem Flex Residual Control in Spring Wheat (PDF)**](images/2023ResearchReport/AnthemFlexResidualControlinSpringWheat.pdf)
 
 **2023 General Reports**:
 
