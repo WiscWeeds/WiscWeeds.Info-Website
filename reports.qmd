@@ -29,12 +29,12 @@ about:
 
 ## **2024 Research Reports**
 
--   [**Giant Ragweed Control Research Summary 2018-2023 (PDF)**](images/2024ResearchReport/GiantRagweedControlResearchSummary.pdf)
+-   [**Cereal rye cover crop, PRE emergence herbicide fate, and pigweed residual control: Considerations learned from a multi-state field study (PDF)**](images/2024ResearchReport/CerealRyeCoverCropPreEmergenceHerbicideUSB.pdf)
 
 ```{=html}
 <!-- -->
 ```
--   [**Cereal rye cover crop, PRE emergence herbicide fate, and pigweed residual control: Considerations learned from a multi-state field study (PDF)**](images/2024ResearchReport/CerealRyeCoverCropPreEmergenceHerbicideUSB.pdf)
+-   [**Giant Ragweed Control Research Summary 2018-2023 (PDF)**](images/2024ResearchReport/GiantRagweedControlResearchSummary.pdf)
 
 ## **2023 Research Reports**
 
