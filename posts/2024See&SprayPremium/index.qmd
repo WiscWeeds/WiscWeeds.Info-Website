@@ -1,0 +1,59 @@
+---
+title: "You upgraded to the John Deere See & SprayTM Premium precision system, now what?"
+author: "Rodrigo Werle"
+date: "2024-04-10"
+categories: [herbicides, waterhemp]
+image: "Ultimate.jpeg"
+---
+
+The past two weeks I got to discuss this matter with a couple Wisconsin farmers (and their crop consultants) that have recently acquired the John Deere [**See & Spray^TM^ Premium**](https://www.deere.com/en/technology-products/precision-ag-technology/precision-upgrades/sprayer-upgrades/see-spray-premium-upgrade/) precision system and intend to put it to good use this growing season and thought it would be worthwhile summarizing our conversations as a blog post. The goal of this article is not to promote a specific technology nor specific herbicide products, instead, to provoke discussions and thoughts about these novel precision herbicide application technologies that are becoming available to our growers and, if widely adopted, will change the status quo of herbicide applications in corn and soybean systems in Wisconsin and beyond.
+
+With the John Deere [**See & Spray^TM^ Premium**](https://www.deere.com/en/technology-products/precision-ag-technology/precision-upgrades/sprayer-upgrades/see-spray-premium-upgrade/) precision upgrade system (one tank-one boom system), a grower can either target spray established weeds or broadcast spray entire fields. With this system, growers cannot simultaneously target spray foliar herbicides and broadcast apply soil residual herbicides during the same trip as they could had they purchased a brand-new sprayer with the [**See & Spray^TM^ Ultimate**](https://www.deere.com/en/sprayers/see-spray-ultimate/) system (two tank-two boom system, aka dual tank system).
+
+From the [John Deere See & Spray^TM^ Premium webpage](https://www.deere.com/en/technology-products/precision-ag-technology/precision-upgrades/sprayer-upgrades/see-spray-premium-upgrade/): *\"We've taken the advanced camera detection and artificial intelligence system from the revolutionary See & Spray platform and now offer them as a factory install on MY25 and newer Hagie, 400 and 600 Series sprayers, or as a Precision Upgrade on MY18+ and newer R-series and 400/600 series sprayers.\"*
+
+So, the first take here is that the See & Spray^TM^ Premium and the See & Spray^TM^ Ultimate systems differ on what they can deliver. Moreover, See & Spray^TM^ Premium can be retrofitted to certain sprayers whereas the See & Spray^TM^ Ultimate is a factory installed system only and isn't available as a precision upgrade; the latter also requires a larger financial investment.
+
+\
+
+**Now back to my discussion with the Wisconsin clientele that recently acquired the John Deere See & Spray^TM^ Premium precision upgrade system...**
+
+If a PRE-emergence soil residual herbicide is to be applied early in the season (at planting time or shortly after), which is highly recommended for weed management in corn and soybean particularly for growers dealing with waterhemp, the targeted application modality of the See & Spray^TM^ Premium system becomes of no use, unless a grower is willing to make two trips on the same field, one targeting established weeds with a burndown program (See & Spray modality on; green-on-brown application) and a second immediate trip delivering the residual herbicide program through a regular broadcast application (See & Spray modality off). This discussion becomes important in no-till fields where established weeds need to be controlled at planting time; less so in conventional tillage fields where established weeds are eliminated pre-plant through cultivation.
+
+During POST-applications (green-on-green applications) is where this particular system can shine in my opinion, delivering foliar herbicides only where weeds are, resulting in product savings for growers and the agricultural environment. Through our research conducted with a different equipment brand but similar technology, we are learning that early-POST applications are more likely to yield better results compared to late-POST applications; less crop canopy is present during early-POST applications when compared to late-POST applications (e.g., V2-V3 compared to V5-V6), allowing for more precise weed detection and higher foliar herbicide savings.
+
+\
+
+**But what about the soil residual herbicide that a grower may want to deliver POST as part of a layered residual herbicide program for waterhemp control?** That\'s a difficult question to answer. A grower can make two POST trips, one delivering the foliar herbicides with the See & Spray modality on and a second broadcast POST pass delivering the soil residual herbicide with the See & Spray modality off (I am not sure growers will be willing to do that though). A good alternative in my opinion would be to alter the overall herbicide program by moving the in-season soil residual herbicide to the PRE-emergence herbicide application for a stronger early-season weed control program, which should lead to reduced weed infestation in season, thus optimizing the use of the See & Spray technology POST (e.g., fewer weeds, more savings of foliar herbicides). For this plan to work, enough early-season precipitation is necessary to activate the soil residual herbicides, which should all be applied at appropriate rates (labeled rates based on soil conditions); I would not cut rates.
+
+Below is the outcome of one of our discussions that will be implemented this year in one of the Wisconsin farms that have recently purchased the See & Spray^TM^ Premium system. E3 soybean system, conventional tillage with pre-plant field cultivation to eliminate established weeds, and waterhemp as the target weed species. Scenario A was the original plan before the grower upgraded to the See & Spray^TM^ Premium system; Scenario B is the herbicide program now that the See & Spray^TM^ Premium system is available in the operation.
+
+**Scenario A. PRE- followed by POST-emergence broadcast herbicide application program**
+
+-   PRE-emergence herbicide program: Authority First (cloransulam-methyl + sulfentrazone)
+
+-   POST-emergence herbicide program: Liberty (glufosinate) + Enlist One (2,4-D choline) + clethodim if volunteer corn is present + Zidua (pyroxasulfone) for layered soil residual weed control.
+
+**Scenario B. Broadcast PRE- followed by See & Spray POST-emergence herbicide application\***
+
+-   PRE-emergence herbicide program (broadcast application): Authority First (cloransulam-methyl + sulfentrazone) + Zidua (pyroxasulfone)
+
+-   POST-emergence herbicide program (See & Spray application): Liberty (glufosinate) + Enlist One (2,4-D choline) + clethodim if volunteer corn is present
+
+*\*note that the Zidua that was part of the layered residual program POST in scenario A was moved to the PRE program in scenario B where POST herbicides will be target applied only where the See & Spray^TM^ Premium system detects the weeds. The grower and agronomist could have decided to remove Zidua from the herbicide program to potentially save more (further reduce herbicide costs), but this could be a risky decision in my opinion (e.g., more weeds to be controlled POST).*
+
+\
+
+Balancing savings and effective management of troublesome weed species will be a major challenge with these novel precision application systems. In my opinion, savings of POST foliar herbicides can be achieved if we don\'t cut corners on our soil residual herbicide programs and continue to incorporate non-chemical approaches to weed management in our cropping systems.
+
+\
+
+**Additional Resources:**
+
+-   [**2023 Spot Spray Technologies Extension Zoom Webinar**](https://www.youtube.com/watch?v=x6D3Q5hUjWA)
+
+-   [**2024 See & Spray Precision Herbicide Application Technologies Webinar**](https://www.youtube.com/watch?v=LuEtcTxoVok)
+
+\
+
+*This article was written by Dr. Rodrigo Werle, Associate Professor and Extension Cropping Systems Weed Scientist at the University of Wisconsin-Madison.* *Many thanks to Wisconsin Crop Consultant Tom Novak for the great discussions and for reviewing this article.*
