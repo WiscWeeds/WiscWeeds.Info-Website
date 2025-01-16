@@ -29,6 +29,8 @@ about:
 
 ## **2024 Research Reports**
 
+-   [**2024 Wisconsin Weed Science Research Report**](images\2024ResearchReport\2024WisconsinWeedScienceResearchReport.pdf)
+
 -   [**Cereal rye cover crop, PRE emergence herbicide fate, and pigweed residual control: Considerations learned from a multi-state field study (PDF)**](images/2024ResearchReport/CerealRyeCoverCropPreEmergenceHerbicideUSB.pdf)
 
 ```{=html}
