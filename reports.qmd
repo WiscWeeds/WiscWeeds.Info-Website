@@ -31,11 +31,64 @@ about:
 
 -   [**2024 Wisconsin Weed Science Research Report**](images\2024ResearchReport\2024WisconsinWeedScienceResearchReport.pdf)
 
+**2024 Corn Weed Control Trials (field images):**
+
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs with Atrazine (PDF)**](images\2024ResearchReport\CornHerbicideShowcase1and2PassProgramswithAtrazine.pdf)
+
+-   [**Corn Herbicide Showcase 1 and 2-Pass Programs without Atrazine (PDF)**](images\2024ResearchReport\CornHerbicideShowcase1and2PassProgramswithoutAtrazine.pdf)
+
+-   [**Corn Herbicide Tank Mixes with Status (PDF)**](images\2024ResearchReport\CornHerbicideTankMixeswithStatus.pdf)
+
+-   [**Herbicide Programs for Conventional Corn (PDF)**](images\2024ResearchReport\HerbicideProgramsforConventionalCorn.pdf)
+
+-   [**PSII and HPPD Herbicide POST Tank Mixes - Giant Ragweed (PDF)**](images\2024ResearchReport\PSIIandHPPDHerbicidePOSTTankMixesGiantRagweed.pdf)
+
+-   [**PSII and HPPD Herbicide POST Tank Mixes -- Waterhemp (PDF)**](images\2024ResearchReport\PSIIandHPPDHerbicidePOSTTankMixesWaterhemp.pdf)
+
+-   [**Storen Weed Control and Crop Safety (PDF)**](images\2024ResearchReport\StorenWeedControlandCropSafety.pdf)
+
+-   [**Two-Pass Corn Herbicide Programs with Maverick (PDF)**](images\2024ResearchReport\TwoPassCornHerbicideProgramswithMaverick.pdf)
+
+-   [**Weed Control and Crop Safety with Surtain (PDF)**](images\2024ResearchReport\WeedControlandCropSafetywithSurtain.pdf)
+
+-   [**Weed Management in Short Statured Corn (PDF)**](images\2024ResearchReport\WeedManagementinShortStaturedCorn.pdf)
+
+**2024 Soybean Weed Control Trials (field images):**
+
+-   [**Voraxor Tank Mixed with Residuals Preplant Burndown Control (PDF)**](images\2024ResearchReport\VoraxorTankMixedwithResidualsPreplantBurndownControl.pdf)
+
+-   [**Enversa and Group 15 Herbicides Layered Residual Comparison (PDF)**](images\2024ResearchReport\EnversaandGroup15HerbicidesLayeredResidualComparison.pdf)
+
+-   [**Evaluation of Layered Residual Herbicide Programs in Enlist Soybean (PDF)**](images\2024ResearchReport\EvaluationofLayeredResidualHerbicideProgramsinEnlistSoybean.pdf)
+
+-   [**Evaluation of Metribuzin Tank Mixes for Waterhemp Control (PDF)**](images\2024ResearchReport\EvaluationofMetribuzinTankMixesforWaterhempControl.pdf)
+
+-   [**Evaluation of POST Herbicide Tank Mixes in Enlist Soybean (PDF)**](images\2024ResearchReport\EvaluationofPOSTHerbicideTankMixesinEnlistSoybean.pdf)
+
+-   [**Fomesafen and Group 15 Herbicides Layered Residual Comparison (PDF)**](images\2024ResearchReport\FomesafenandGroup15HerbicidesLayeredResidualComparison.pdf)
+
+-   [**Group 15 Herbicide Comparison (PDF)**](images\2024ResearchReport\Group15HerbicideComparison.pdf)
+
+-   [**Lead with Liberty ULTRA (PDF)**](images\2024ResearchReport\LeadwithLibertyULTRA.pdf)
+
+-   [**Liberty ULTRA Product Comparison (PDF)**](images\2024ResearchReport\LibertyULTRAProductComparison.pdf)
+
+-   [**Metribuzin in Early Planted Soybean (PDF)**](images\2024ResearchReport\MetribuzininEarlyPlantedSoybean.pdf)
+
+-   [**Soybean Herbicide Programs for Giant Ragweed Management (PDF)**](images\2024ResearchReport\SoybeanHerbicideProgramsforGiantRagweedManagement.pdf)
+
+-   [**Soybean Herbicide Programs for Giant Ragweed Management - Soybean Injury (PDF)**](images\2024ResearchReport\SoybeanHerbicideProgramsforGiantRagweedManagementSoybeanInjury.pdf)
+
+**2024 Bareground Weed Control Trials (field images):**
+
+-   [**Syngenta Corn Herbicides Residual Waterhemp Control (PDF)**](images\2024ResearchReport\SyngentaCornHerbicidesResidualWaterhempControl.pdf)
+
+-   [**Postemergence Foliar Control of Waterhemp (PDF)**](images\2024ResearchReport\PostemergenceControlofWaterhempNonCrop.pdf)
+
+**2024 General Reports**:
+
 -   [**Cereal rye cover crop, PRE emergence herbicide fate, and pigweed residual control: Considerations learned from a multi-state field study (PDF)**](images/2024ResearchReport/CerealRyeCoverCropPreEmergenceHerbicideUSB.pdf)
 
-```{=html}
-<!-- -->
-```
 -   [**Giant Ragweed Control Research Summary 2018-2023 (PDF)**](images/2024ResearchReport/GiantRagweedControlResearchSummary.pdf)
 
 ## **2023 Research Reports**
